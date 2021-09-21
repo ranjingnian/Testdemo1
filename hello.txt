@@ -16,5 +16,5 @@ hello  word,hello  git!
 hello  word,hello  git!
 hello  word,hello  git!
 hello  word,hello  git!mastrer xiaofang
-hello  word,hello  git! hot-fix test
+hello  word,hello  git! xiaoran
 >>>>>>> hot-fix
